@@ -1,4 +1,4 @@
-# Dissertation Title: Financial Event Extraction and Classification using NLP and LLMs
+# MSc Dissertation : Event Extraction from Financial Articles Using Natural Language Processing
 
 ## Overview
 
