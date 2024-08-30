@@ -1,0 +1,23 @@
+EDT Dataset
+The EDT dataset is created to support corporate event detection and news-based stock prediction. It includes:
+
+9721 News Articles: Annotated with token-level event labels.
+303893 News Articles: With minute-level timestamps and comprehensive stock price labels.
+
+Event Types
+The paper focuses on 11 types of corporate events that have predictable impacts on stock prices:
+
+Guidance Increase
+Acquisition
+New Contract
+Stock Split
+Reverse Stock Split
+Positive Clinical Trial & FDA Approval
+Stock Repurchase
+Dividend
+Dividend Cut
+Dividend Increase
+Special Dividend
+
+run the models
+adapt the prompts
